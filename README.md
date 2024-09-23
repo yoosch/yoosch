@@ -10,9 +10,9 @@ Action already setup In this template, you just need click `use this template` b
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
-[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yudhisahsan7/yudhisahsan7/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
